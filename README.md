@@ -1,0 +1,1 @@
+# IA_Assistida_com_GitHub_Copilot_OpenAI
